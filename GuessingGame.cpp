@@ -19,6 +19,7 @@
 // Brakes if guess is not int   https://www.techiedelight.com/convert-string-to-int-cpp/   
 // Spases make for 2 guesses  https://stackoverflow.com/questions/5838711/stdcin-input-with-spaces and https://en.cppreference.com/w/cpp/algorithm/remove
 // Git hub change
+// Publish this change on git
 
 #include <iostream>
 #include <ctime> // Added to get "time" workling in "srand((unsigned int)time(NULL));"
